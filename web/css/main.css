@@ -9,7 +9,14 @@ p
     font-size: 110%;
     font-family: sans-serif;
 }
-
+header
+{
+    font-size: 200%;
+    font-family: sans-serif;
+    font-weight: 40%;
+    color: red;
+    align: left;
+}
 #methods 
 {
     max-width:100%;
@@ -19,7 +26,7 @@ p
 {
     width:49%;
     float:left;
-    padding:0;
+    padding:6;
     margin:0;
     border:1px solid red;
 }
