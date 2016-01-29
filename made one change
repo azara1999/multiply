@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Mike's Math Corner!!</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+
+<body>
+    <header>
+         Multiplying Two Digit Numbers with Two Digit Numbers!
+    </header>
+    <h1><iframe width="640" height="360" src="https://www.youtube.com/embed/HwKLbvIimew?rel=0" frameborder="0" allowfullscreen></iframe>
+    </h1>
+
+    <section id="methods">
+        <section id="m1">
+        <img src="standard.jpg" alt="Example 1" width="315" height="200" 
+            <h3> Standard Method </h3>
+                Example: 66 X 13
+            <h3> Steps </h3>
+                 <ol>
+                    <li>Multiply 6 x 3 to get 18.  Leave the 8 and carry the 1.</li>
+                    <li>Multiply 3 x 6 to get 18 but don't forget to add the 1 to ge 19.</li>
+                    <li>Put a place holder under the 8.</li>
+                    <li>Multiply 1 x 6 to get 6.  Put the 6 under the 9.</li>
+                    <li>Multiply 1 x 6 again to get 6. Put the 6 under the 1.</li>
+                    <li>Now add up the 2 columns of numbers, 198 and 66.</li>
+                    <li>After you add the columns you should have 858 for your answer!.</li>
+
+                </ol>            
+        </section>                          
+             <section id="m2">
+            <img src="partial.jpg" alt="Example 2" width="315" height="200"          
+            <h3>Partial Product Method</h3>
+                Example: 66 X 13
+            <h3> Steps </h3>
+                 <ol>
+                    <li>Multiply 6 x 10 to get 60..</li>
+                    <li>Multiply 6 x 3 to get 18..</li>
+                    <li>Multiply 60 x 10 to get 600..</li>
+                    <li>Multiply 60 x 3 to get 180..</li>
+                    <li>Add all partial products up:  600 + 180 + 60 + 18.</li>
+                    <li>After you add the numbers up, your final answer should be 858!.</li>
+
+
+                </ol>
+             </section>
+    </section>
+
+
+</body>
+</html>
