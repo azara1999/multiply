@@ -2,19 +2,21 @@ body
 {
     width: 640px;
     margin: 0 auto;
+    background-color: black;
 }
 
 p
 {
     font-size: 110%;
-    font-family: sans-serif;
+    font-family: chalkduster;
 }
 header
 {
     font-size: 200%;
-    font-family: sans-serif;
+    font-family: chalkduster;
     font-weight: 40%;
-    color: red;
+    color: White;
+    background-color: Black;
     align: left;
 }
 #methods 
@@ -26,9 +28,12 @@ header
 {
     width:49%;
     float:left;
-    padding:6;
-    margin:0;
+    padding:0;
+    margin:2px;
     border:1px solid red;
+    color:white;
+    font-family: chalkduster;
+
 }
 
 
