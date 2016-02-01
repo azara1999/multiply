@@ -1,6 +1,22 @@
+::-webkit-scrollbar-thumb{
+background: #c3834c;
+border:2px solid #c3834c;
+height:auto;
+}
+ 
+::-webkit-scrollbar {
+height:auto;
+width:5px;
+background: black;
+border:2px solid black;
+}
+
+
+
 body
 {
-    width: 640px;
+    width: 1000px;
+    padding-top:10px;
     margin: 0 auto;
     background-color: black;
 }
@@ -17,26 +33,30 @@ header
     font-weight: 40%;
     color: White;
     background-color: Black;
-    align: left;
+    text-align: center;
 }
+
 #methods 
 {
     max-width:100%;
+    height:215px;
 }
 
 #m1, #m2
 {
-    width:49%;
+    width:47%;
+    height:200px;
     float:left;
-    padding:0;
-    margin:2px;
-    border:1px solid red;
+    padding-left:10px;
+    padding-right:10px;
+    padding-bottom:10px;
+    margin:3px;
+    border:1px solid #c3834c;
     color:white;
     font-family: chalkduster;
-
+    overflow:scroll;
+    overflow-x:hidden;
 }
-
-
 
 p.important
 {
@@ -47,4 +67,13 @@ p.important
 #first-para a
 {
     text-decoration: none;
+}
+
+hr {
+    border-top:10px solid black;
+    border-right:10px solid black;
+    border-left:10px solid black;
+    border-bottom: 10px ridge #c3834c;
+    width:110%;
+    margin-left:-5%;
 }
