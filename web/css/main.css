@@ -1,14 +1,14 @@
 ::-webkit-scrollbar-thumb{
-background: #c3834c;
-border:2px solid #c3834c;
+background: #614126;
+border:2px solid #614126;
 height:auto;
 }
  
 ::-webkit-scrollbar {
 height:auto;
 width:5px;
-background: black;
-border:2px solid black;
+background: #7D7D7D;
+border:2px solid #7D7D7D;
 }
 
 img {
@@ -20,7 +20,7 @@ body
     width: 1000px;
     padding-top:10px;
     margin: 0 auto;
-    background-color: black;
+    background-color: #7D7D7D;
 }
 
 p
@@ -34,7 +34,6 @@ header
     font-family: 'Covered By Your Grace', cursive;
     font-weight: 40%;
     color: White;
-    background-color: Black;
     text-align: center;
 }
 
@@ -53,7 +52,7 @@ header
     padding-right:10px;
     padding-bottom:10px;
     margin:3px;
-    border:1px solid #c3834c;
+    border:1px solid #614126;
     color:white;
     font-family: 'Amatic SC', cursive;
     font-size:20px;
@@ -74,9 +73,9 @@ p.important
 }
 
 hr {
-    border-top:10px solid black;
-    border-right:10px solid black;
-    border-left:10px solid black;
+    border-top:10px solid #7D7D7D;
+    border-right:10px solid #7D7D7D;
+    border-left:10px solid #7D7D7D;
     border-bottom: 10px ridge #c3834c;
     width:110%;
     margin-left:-5%;
