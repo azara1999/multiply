@@ -24,12 +24,12 @@ body
 p
 {
     font-size: 110%;
-    font-family: chalkduster;
+    font-family: 'Amatic SC', cursive;
 }
 header
 {
     font-size: 200%;
-    font-family: chalkduster;
+    font-family: 'Covered By Your Grace', cursive;
     font-weight: 40%;
     color: White;
     background-color: Black;
@@ -53,7 +53,9 @@ header
     margin:3px;
     border:1px solid #c3834c;
     color:white;
-    font-family: chalkduster;
+    font-family: 'Amatic SC', cursive;
+    font-size:20px;
+    letter-spacing:1px;
     overflow:scroll;
     overflow-x:hidden;
 }
